@@ -27,7 +27,7 @@ const aboutMe = {
 
 Let’s connect!
 
-💻LinkedIn: www.linkedin.com/in/pin/
+💻LinkedIn: www.linkedin.com/in/pernamauro/
 
 📧maurofabricioperna@gmail.com
 
