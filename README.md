@@ -13,8 +13,9 @@ const aboutMe = {
          js: ["Node", "Express"]
       },
       databases: ["MongoDB", "PostgreSQL", "Sequelize", "Prisma ORM"],
+      blockchain: ["Solidity"]
    },
-   currentOccupation: ["Full Stack Developer"],
+   currentOccupation: ["Full Stack Web Developer"],
 };
 ```
 
