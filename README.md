@@ -26,4 +26,4 @@ const aboutMe = {
 Let’s connect!
 💻LinkedIn: www.linkedin.com/in/pin/
 📧maurofabricioperna@gmail.com
-💼portfolio: ᴘʀᴏxɪᴍᴀᴍᴇɴᴛᴇ
+💼web: coming soon
