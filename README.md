@@ -9,20 +9,26 @@ Today I am joining these 2 fields: TECHNOLOGY + ECONOMY .
 ## 💻🆃🅴🅲🅷 🆂🅺🅸🅻🅻🆂
 ```javascript
 const aboutMe = {
-   code: [Javascript, Typescript, Python, R],
-   technologies: {
-      frontEnd: {
-         js: ["React", "Next", "Redux", "React Query"],
-         css: ["ChakraUI", "SASS", "CSS3"]
-      },
-      backEnd: {
-         js: ["Node", "Express"]
-      },
-      databases: ["MongoDB", "PostgreSQL", "Sequelize", "Prisma ORM"],
-      blockchain: ["Solidity"]
-   },
-   currentOccupation: ["Full Stack Web Developer"],
+  code: ["JavaScript", "TypeScript", "Python", "Solidity"],
+  technologies: {
+    backEnd: {
+      js: ["Node", "Express", "NestJS"],
+      other: ["AWS CDK", "Rush"],
+    },
+    databases: ["MongoDB", "PostgreSQL", "Sequelize", "Prisma ORM", "TypeORM", "DynamoDB"],
+    cloudServices: ["AWS", "Google Cloud"],
+    dataScience: ["Data Analytics", "Data Engineering", "ETL Processes"],
+  },
+  tools: ["Git", "GitHub", "Scrum"],
+  currentOccupation: ["Backend Developer specializing in cloud solutions and data engineering"],
+  specialties: {
+    architecture: ["Clean Architecture"],
+    languages: ["TypeScript", "Python"],
+    cloud: ["AWS Services for scalable and highly available solutions"],
+    analytics: ["Data analysis", "Metric creation", "Decision-making optimization"],
+  },
 };
+
 ```
 
 📈 **Some Stats: (Nothing serious 😂)**
