@@ -1,10 +1,8 @@
-### Hi there, i'm Full Stack Developer in web 2 and web3 👋
+### Hi there, i'm Software Developer 👋
 
-My professional profile combines my knowledge of economics that allow me to identify value in processes, products or services; to have a holistic vision of a business and how this is inserted in a certain market ➕ technical knowledge on web development, rest api, blockchain and smart contracts.
+A career economist, he has worked in various industries, which has given me extensive knowledge and understanding of different sectors and markets. In recent years I worked as a software developer building scalable and highly available backend systems. Specialized in data analysis, in my last jobs I worked as a Lead Developer in business intelligence applications, which include ETL processes and metrics generation. I am currently exploring the world of data science and artificial intelligence. I also have experience in Blockchain and basic knowledge in developing EVM compatible dapps. 
 
-Since about 2016 that I knew of the existence of Bitcoin, first I was interested in the economic aspects which led me to study monetary issues.When I immersed myself in Bitcoin I came across the concept of Blockchain, then with Ethereum and smart contracts. There I understood the potential of programming through smart contracts, which allows through certain crypto-economics instruments (cryptographic primitives such as hash, electronic signatures, asymmetric cryptography ➕ market incentives = TOKENOMICS) the market design.
-
-Today I am joining these 2 fields: TECHNOLOGY + ECONOMY .
+In summary, my professional profile combines my knowledge of Economics that allows me to identify value in processes, products or services; having a holistic vision and abstraction capacity of a business and understanding how it fits into a certain market, to this is added technical knowledge about programming and data processing.
 
 ## 💻🆃🅴🅲🅷 🆂🅺🅸🅻🅻🆂
 ```javascript
