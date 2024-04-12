@@ -1,6 +1,6 @@
 ### Hi there, i'm Software Developer 👋
 
-A career economist, he has worked in various industries, which has given me extensive knowledge and understanding of different sectors and markets. In recent years I worked as a software developer building scalable and highly available backend systems. Specialized in data analysis, in my last jobs I worked as a Lead Developer in business intelligence applications, which include ETL processes and metrics generation. I am currently exploring the world of data science and artificial intelligence. I also have experience in Blockchain and basic knowledge in developing EVM compatible dapps. 
+A career economist, I have worked in various industries, which has given me extensive knowledge and understanding of different sectors and markets. In recent years I worked as a software developer building scalable and highly available backend systems. Specialized in data analysis, in my last jobs I worked as a Lead Developer in business intelligence applications, which include ETL processes and metrics generation. I am currently exploring the world of data science and artificial intelligence. I also have experience in Blockchain and basic knowledge in developing EVM compatible dapps. 
 
 In summary, my professional profile combines my knowledge of Economics that allows me to identify value in processes, products or services; having a holistic vision and abstraction capacity of a business and understanding how it fits into a certain market, to this is added technical knowledge about programming and data processing.
 
