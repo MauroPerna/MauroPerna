@@ -31,6 +31,6 @@ const aboutMe = {
 🤝 Let’s connect!
 
 ✉️ maurofabricioperna@gmail.com
-🌐 Web: coming soon
+💻LinkedIn: www.linkedin.com/in/pernamauro/
 
 <br> <h4 align="center">Visitor's 👀</h4> <p align="center"><img src="https://profile-counter.glitch.me/{MauroPerna}/count.svg" alt="MauroPerna :: Visitor's Count" /></p> 
