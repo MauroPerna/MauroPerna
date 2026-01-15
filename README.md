@@ -12,10 +12,10 @@ My core experience is in **backend development and data engineering**, working w
 
 ## 🚀 Current Focus
 
-- Designing and building **scalable backend systems**
-- Developing **data pipelines, analytics, and metric-driven platforms**
-- Exploring **AI-driven backends**, intelligent agents, and applied machine learning
-- Moving towards the intersection of **software engineering, data, and quantitative financial analysis**
+* Designing and building **scalable backend systems**
+* Developing **data pipelines, analytics, and metric-driven platforms**
+* Exploring **AI-driven backends**, intelligent agents, and applied machine learning
+* Moving towards the intersection of **software engineering, data, and quantitative financial analysis**
 
 ---
 
@@ -40,13 +40,25 @@ const aboutMe = {
 };
 ```
 
-📈 GitHub Stats
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MauroPerna&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauroPerna&layout=compact&hide_border=true&show_icons=true&langs_count=8" /> </p>
+---
 
+## 📈 GitHub Stats
 
-🤝 Let’s connect!
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MauroPerna&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauroPerna&layout=compact&hide_border=true&show_icons=true&langs_count=8" />
+</p>
 
-✉️ maurofabricioperna@gmail.com
-💻LinkedIn: www.linkedin.com/in/pernamauro/
+---
 
-<br> <h4 align="center">Visitor's 👀</h4> <p align="center"><img src="https://profile-counter.glitch.me/{MauroPerna}/count.svg" alt="MauroPerna :: Visitor's Count" /></p> 
+## 🤝 Let’s connect!
+
+✉️ **Email:** [maurofabricioperna@gmail.com](mailto:maurofabricioperna@gmail.com)
+💻 **LinkedIn:** [https://www.linkedin.com/in/pernamauro/](https://www.linkedin.com/in/pernamauro/)
+
+---
+
+<h4 align="center">Visitor's 👀</h4>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/MauroPerna/count.svg" alt="MauroPerna Visitor Count" />
+</p>
