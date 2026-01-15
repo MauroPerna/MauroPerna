@@ -1,10 +1,21 @@
-### Hi there 👋, I'm Mauro — Software Developer & Data Enthusiast
+### Hi there 👋, I'm Mauro — Backend & Data Engineer
 
-I'm an economist-turned-developer passionate about building **scalable backend systems, data pipelines, and cloud solutions**.  
-In the last few years, I’ve focused on **business intelligence**, **data engineering**, and backend development, leading projects that blend data analysis with robust infrastructure.  
-I have hands-on experience in **Node.js**, **TypeScript**, **NestJS**, and cloud platforms like **AWS**. I’m also exploring **data science** and **AI**, and have a solid base in **blockchain** (EVM dapps).
+I'm a Backend Engineer with a background in Economics, focused on building **scalable, data-intensive backend systems** and cloud-native architectures.
 
-> 🧠 My unique edge: I bridge business vision (thanks to my Economics background) with the power of data and code.
+Over the last few years, I’ve worked on **backend platforms, data pipelines, and analytical systems**, designing solutions where software engineering, data, and business requirements converge. I enjoy translating complex problems into **robust, maintainable, and production-ready systems**.
+
+My core experience is in **backend development and data engineering**, working with **TypeScript, Node.js, Python**, and **AWS**. I also have experience building **blockchain applications on EVM**, and I’m currently deepening my focus on **AI-driven systems, intelligent agents, and financial data analysis**.
+
+> 🧠 My edge: combining a strong business and economic background with software engineering and data-driven thinking.
+
+---
+
+## 🚀 Current Focus
+
+- Designing and building **scalable backend systems**
+- Developing **data pipelines, analytics, and metric-driven platforms**
+- Exploring **AI-driven backends**, intelligent agents, and applied machine learning
+- Moving towards the intersection of **software engineering, data, and quantitative financial analysis**
 
 ---
 
@@ -13,14 +24,19 @@ I have hands-on experience in **Node.js**, **TypeScript**, **NestJS**, and cloud
 ```javascript
 const aboutMe = {
   languages: ["TypeScript", "JavaScript", "Python", "Solidity"],
-  backend: ["Node.js", "NestJS", "Express"],
+  backend: ["Node.js", "NestJS", "Express", "FastAPI"],
   cloud: ["AWS (CDK, Lambda, S3, DynamoDB)", "Google Cloud"],
-  databases: ["MongoDB", "PostgreSQL", "Prisma", "TypeORM"],
-  data: ["Data Analytics", "ETL", "Metric Engineering"],
+  databases: ["MongoDB", "PostgreSQL", "Redis"],
+  data: ["Data Engineering", "ETL Pipelines", "Analytics", "Metric Engineering"],
   devops: ["Git", "GitHub Actions"],
-  tools: ["Scrum", "Rush"],
-  interests: ["AI", "Blockchain", "Cloud Architecture"],
-  current: "Backend & Data Engineer",
+  architecture: ["Clean Architecture", "Event-Driven Systems"],
+  interests: [
+    "AI-driven backends",
+    "Financial data systems",
+    "Quantitative analysis",
+    "Blockchain (EVM)"
+  ],
+  role: "Backend & Data Engineer",
 };
 ```
 
